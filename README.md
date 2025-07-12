@@ -1,5 +1,5 @@
 <h1 align="center"> Привет, я Кирилл </h1>
-<h3 align="center"> QA Automation Engineer </h3>
+<h3 align="center"> QA Engineer </h3>
 
 ### Мои контакты:
 <a href="https://t.me/morozovk_98" target="_blank"><img align="center" src="https://github.com/Morozovk/Morozovk/blob/main/media/telegram-logo.png" width="65" height="65"></a>
