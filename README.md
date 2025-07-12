@@ -32,7 +32,7 @@
 [![KDV Project](https://github-readme-stats.vercel.app/api/pin/?username=Morozovk&repo=KDV)](https://github.com/Morozovk/KDV)
 
 ### ⭐ Проект API автоматизации сервиса [Reqres.in](https://reqres.in/)
-[![API Project](https://github-readme-stats.vercel.app/api/pin/?username=Morozovk&repo=Api)](https://github.com/Morozovk/Api)
+[![API Project](https://github-readme-stats.vercel.app/api/pin/?username=Morozovk&repo=Ap)](https://github.com/Morozovk/Api)
 
 ### 📱  Проект по автоматизации mobile тестов для приложения [Wikipedia](https://ru.wikipedia.org/)
-[![Mobile Project](https://github-readme-stats.vercel.app/api/pin/?username=Morozovk&repo=Mobile)](https://github.com/Morozovk/Mobile)
+[![Mobile Project](https://github-readme-stats.vercel.app/api/pin/?username=Morozovk&repo=Mobil)](https://github.com/Morozovk/Mobile)
