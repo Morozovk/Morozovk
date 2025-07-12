@@ -22,15 +22,17 @@
     <a href="https://developer.android.com/studio?hl=ru/" target="_blank"><img align="center" src="https://github.com/Morozovk/Morozovk/blob/main/media/android_studio-logo.png" width="70" height="70"></a>
     <a href="http://appium.io/docs/en/latest/" target="_blank"><img align="center" src="https://github.com/Morozovk/Morozovk/blob/main/media/appium-logo.webp" width="70" height="70"></a>
     <a href="https://appium.github.io/appium-inspector/2024.12/quickstart/installation/" target="_blank"><img align="center" src="https://github.com/Morozovk/Morozovk/blob/main/media/appium_inspector-logo.png" width="70" height="70"></a>
+    <a href="https://www.browserstack.com" target="_blank"><img align="center" src="https://github.com/Morozovk/Morozovk/blob/main/media/Browserstack-logo.jpeg" width="70" height="70"></a>
+    <a href="https://www.atlassian.com/software/jira?ysclid=md0lg2sq5952243148" target="_blank"><img align="center" src="https://github.com/Morozovk/Morozovk/blob/main/media/Jira-logo.svg" width="70" height="70"></a>
 </p>
 
 ### Мои проекты по автоматизации тестирования на Java :mortar_board:
 
-### :star: Проект UI автоматизации сайта [KDV](https://kdvonline.ru/)
-[![Readme Card](https://github.com/Morozovk/KDV_homework)](https://github.com/Morozovk/KDV_homework)
+### 🖥️ Проект UI автоматизации сайта [KDV](https://kdvonline.ru/)
+[![KDV Project](https://github-readme-stats.vercel.app/api/pin/?username=Morozovk&repo=KDV_homework)](https://github.com/Morozovk/KDV_homework)
 
-### :bangbang: Проект API автоматизации сервиса [Reqres.in](https://reqres.in/)
-[![Readme Card](https://github.com/Morozovk/Api)](https://github.com/Morozovk/Api)
+### ⭐ Проект API автоматизации сервиса [Reqres.in](https://reqres.in/)
+[![API Project](https://github-readme-stats.vercel.app/api/pin/?username=Morozovk&repo=Api)](https://github.com/Morozovk/Api)
 
-### :phone:  Проект по автоматизации mobile тестов для приложения [Wikipedia](https://ru.wikipedia.org/)
-[![Readme Card](https://github.com/Morozovk/Mobile)](https://github.com/Morozovk/Mobile)
+### 📱  Проект по автоматизации mobile тестов для приложения [Wikipedia](https://ru.wikipedia.org/)
+[![Mobile Project](https://github-readme-stats.vercel.app/api/pin/?username=Morozovk&repo=Mobile)](https://github.com/Morozovk/Mobile)
