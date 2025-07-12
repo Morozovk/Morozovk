@@ -8,20 +8,20 @@
 ### Мои инструменты и технологии:
 
 <p align="center">
-    <a href="https://www.jetbrains.com/idea/" target="_blank"><img align="center" src="https://github.com/Morozovk/Morozovk/blob/main/media/idea-logo.svg" width="65" height="65"></a>
-    <a href="https://www.java.com/" target="_blank"><img align="center" src="https://github.com/Morozovk/Morozovk/blob/main/media/java-logo.svg" width="65" height="65"></a>
-    <a href="https://github.com/" target="_blank"><img align="center" src="https://github.com/Morozovk/Morozovk/blob/main/media/github-logo.svg" width="65" height="65"></a>
-    <a href="https://junit.org/junit5/" target="_blank"><img align="center" src="https://github.com/Morozovk/Morozovk/blob/main/media/junit5-logo.svg" width="65" height="65"></a>
-    <a href="https://gradle.org/" target="_blank"><img align="center" src="https://github.com/Morozovk/Morozovk/blob/main/media/gradle-logo.svg" width="65" height="65"></a>
-    <a href="https://selenide.org/" target="_blank"><img align="center" src="https://github.com/Morozovk/Morozovk/blob/main/media/selenide-logo.svg" width="65" height="65"></a>
-    <a href="https://docs.qameta.io/allure/" target="_blank"><img align="center" src="https://github.com/Morozovk/Morozovk/blob/main/media/allure-report-logo.svg" width="65" height="65"></a>
-    <a href="https://qameta.io" target="_blank"><img align="center" src="https://github.com/Morozovk/Morozovk/blob/main/media/testOps-logo.jpg" width="65" height="65"></a>
-    <a href="https://www.jenkins.io/" target="_blank"><img align="center" src="https://github.com/Morozovk/Morozovk/blob/main/media/jenkins-logo.svg" width="65" height="65"></a>
-    <a href="https://aerokube.com/selenoid/" target="_blank"><img align="center" src="https://github.com/Morozovk/Morozovk/blob/main/media/Selenoid-logo.svg" width="65" height="65"></a>
-    <a href="https://rest-assured.io" target="_blank"><img align="center" src="https://github.com/Morozovk/Morozovk/blob/main/media/rest_assured.png" width="65" height="65"></a>
-    <a href="https://developer.android.com/studio?hl=ru/" target="_blank"><img align="center" src="https://github.com/Morozovk/Morozovk/blob/main/media/android_studio-logo.png" width="65" height="65"></a>
-    <a href="http://appium.io/docs/en/latest/" target="_blank"><img align="center" src="https://github.com/Morozovk/Morozovk/blob/main/media/appium-logo.webp" width="65" height="65"></a>
-    <a href="https://appium.github.io/appium-inspector/2024.12/quickstart/installation/" target="_blank"><img align="center" src="https://github.com/Morozovk/Morozovk/blob/main/media/appium_inspector-logo.png" width="65" height="65"></a>
+    <a href="https://www.jetbrains.com/idea/" target="_blank"><img align="center" src="https://github.com/Morozovk/Morozovk/blob/main/media/idea-logo.svg" width="70" height="70"></a>
+    <a href="https://www.java.com/" target="_blank"><img align="center" src="https://github.com/Morozovk/Morozovk/blob/main/media/java-logo.svg" width="70" height="70"></a>
+    <a href="https://github.com/" target="_blank"><img align="center" src="https://github.com/Morozovk/Morozovk/blob/main/media/github-logo.svg" width="70" height="70"></a>
+    <a href="https://junit.org/junit5/" target="_blank"><img align="center" src="https://github.com/Morozovk/Morozovk/blob/main/media/junit5-logo.svg" width="70" height="70"></a>
+    <a href="https://gradle.org/" target="_blank"><img align="center" src="https://github.com/Morozovk/Morozovk/blob/main/media/gradle-logo.svg" width="70" height="70"></a>
+    <a href="https://selenide.org/" target="_blank"><img align="center" src="https://github.com/Morozovk/Morozovk/blob/main/media/selenide-logo.svg" width="70" height="70"></a>
+    <a href="https://docs.qameta.io/allure/" target="_blank"><img align="center" src="https://github.com/Morozovk/Morozovk/blob/main/media/allure-report-logo.svg" width="70" height="70"></a>
+    <a href="https://qameta.io" target="_blank"><img align="center" src="https://github.com/Morozovk/Morozovk/blob/main/media/testOps-logo.jpg" width="70" height="70"></a>
+    <a href="https://www.jenkins.io/" target="_blank"><img align="center" src="https://github.com/Morozovk/Morozovk/blob/main/media/jenkins-logo.svg" width="70" height="70"></a>
+    <a href="https://aerokube.com/selenoid/" target="_blank"><img align="center" src="https://github.com/Morozovk/Morozovk/blob/main/media/Selenoid-logo.svg" width="70" height="70"></a>
+    <a href="https://rest-assured.io" target="_blank"><img align="center" src="https://github.com/Morozovk/Morozovk/blob/main/media/rest_assured.png" width="70" height="70"></a>
+    <a href="https://developer.android.com/studio?hl=ru/" target="_blank"><img align="center" src="https://github.com/Morozovk/Morozovk/blob/main/media/android_studio-logo.png" width="70" height="70"></a>
+    <a href="http://appium.io/docs/en/latest/" target="_blank"><img align="center" src="https://github.com/Morozovk/Morozovk/blob/main/media/appium-logo.webp" width="70" height="70"></a>
+    <a href="https://appium.github.io/appium-inspector/2024.12/quickstart/installation/" target="_blank"><img align="center" src="https://github.com/Morozovk/Morozovk/blob/main/media/appium_inspector-logo.png" width="70" height="70"></a>
 </p>
 
 ### Мои проекты по автоматизации тестирования на Java :mortar_board:
