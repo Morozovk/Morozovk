@@ -25,3 +25,14 @@
     <a href="https://www.browserstack.com" target="_blank"><img align="center" src="https://github.com/Morozovk/Morozovk/blob/main/media/Browserstack-logo.jpeg" width="70" height="70"></a>
     <a href="https://www.atlassian.com/software/jira?ysclid=md0lg2sq5952243148" target="_blank"><img align="center" src="https://github.com/Morozovk/Morozovk/blob/main/media/Jira-logo.svg" width="70" height="70"></a>
 </p>
+
+### Мои проекты по автоматизации тестирования на Java :mortar_board:
+
+### 🖥️ UI тесты на сайт компании [KDV GROUP](https://kdvonline.ru/)
+[![UI автоматизация](https://github-readme-stats.vercel.app/api/pin/?username=Morozovk&repo=KDV)](https://github.com/Morozovk/KDV)
+
+### ⭐ API тесты на сайт компании [Reqres.in](https://reqres.in/)
+[![API автоматизация](https://github-readme-stats.vercel.app/api/pin/?username=Morozovk&repo=Api)](https://github.com/Morozovk/Api)
+
+### 📱 Mobile тесты на приложение компании [wikipedia.org](https://www.wikipedia.org)
+[![Mobile автоматизация](https://github-readme-stats.vercel.app/api/pin/?username=Morozovk&repo=Mobile)](https://github.com/Morozovk/Mobile)
