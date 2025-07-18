@@ -35,4 +35,4 @@
 [![API автоматизация](https://github-readme-stats.vercel.app/api/pin/?username=Morozovk&repo=API)](https://github.com/Morozovk/API)
 
 ### 📱 Mobile тесты на приложение компании [wikipedia.org](https://www.wikipedia.org)
-[![Mobile автоматизация](https://github-readme-stats.vercel.app/api/pin/?username=Morozovk&repo=Mobil)](https://github.com/Morozovk/Mobil)
+[![Mobile автоматизация](https://github-readme-stats.vercel.app/api/pin/?username=Morozovk&repo=MOBILE)](https://github.com/Morozovk/MOBILE)
