@@ -32,7 +32,7 @@
 [![UI автоматизация](https://github-readme-stats.vercel.app/api/pin/?username=Morozovk&repo=UI)](https://github.com/Morozovk/UI)
 
 ### ⭐ API тесты на сайт компании [Reqres.in](https://reqres.in/)
-[![API автоматизация](https://github-readme-stats.vercel.app/api/pin/?username=Morozovk&repo=Api)](https://github.com/Morozovk/Api)
+[![API автоматизация](https://github-readme-stats.vercel.app/api/pin/?username=Morozovk&repo=API)](https://github.com/Morozovk/API)
 
 ### 📱 Mobile тесты на приложение компании [wikipedia.org](https://www.wikipedia.org)
 [![Mobile автоматизация](https://github-readme-stats.vercel.app/api/pin/?username=Morozovk&repo=Mobile)](https://github.com/Morozovk/Mobile)
