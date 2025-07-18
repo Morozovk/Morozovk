@@ -25,14 +25,3 @@
     <a href="https://www.browserstack.com" target="_blank"><img align="center" src="https://github.com/Morozovk/Morozovk/blob/main/media/Browserstack-logo.jpeg" width="70" height="70"></a>
     <a href="https://www.atlassian.com/software/jira?ysclid=md0lg2sq5952243148" target="_blank"><img align="center" src="https://github.com/Morozovk/Morozovk/blob/main/media/Jira-logo.svg" width="70" height="70"></a>
 </p>
-
-### Мои проекты по автоматизации тестирования на Java :mortar_board:
-
-### 🖥️ Проект UI автоматизации сайта [KDV](https://kdvonline.ru/)
-[![KDV Project](https://github-readme-stats.vercel.app/api/pin/?username=Morozovk&repo=KDV)](https://github.com/Morozovk/KDV)
-
-### ⭐ Проект API автоматизации сервиса [Reqres.in](https://reqres.in/)
-[![API Project](https://github-readme-stats.vercel.app/api/pin/?username=Morozovk&repo=Api)](https://github.com/Morozovk/Api)
-
-### 📱  Проект по автоматизации mobile тестов для приложения [Wikipedia](https://ru.wikipedia.org/)
-[![Mobile Project](https://github-readme-stats.vercel.app/api/pin/?username=Morozovk&repo=Mobile)](https://github.com/Morozovk/Mobile)
