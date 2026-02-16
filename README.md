@@ -29,10 +29,10 @@
 ### Мои проекты по автоматизации тестирования на Java :mortar_board:
 
 ### 🖥️ UI тесты на сайт компании [KDV GROUP](https://kdvonline.ru/)
-[UI Pet proect](https://github.com/Morozovk/UI)
+[UI Pet project](https://github.com/Morozovk/UI)
 
 ### ⭐ API тесты на сайт компании [Reqres.in](https://reqres.in/)
-[API Pet proect](https://github.com/Morozovk/API)
+[API Pet project](https://github.com/Morozovk/API)
 
 ### 📱 MOBILE тесты на приложение компании [wikipedia.org](https://www.wikipedia.org)
-[Mobile Pet proect](https://github.com/Morozovk/MOBILE)
+[Mobile Pet project](https://github.com/Morozovk/MOBILE)
