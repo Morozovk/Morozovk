@@ -29,10 +29,10 @@
 ### Мои проекты по автоматизации тестирования на Java :mortar_board:
 
 ### 🖥️ UI тесты на сайт компании [KDV GROUP](https://kdvonline.ru/)
-[![UI автоматизация](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Morozovk&repo=UI)](https://github.com/Morozovk/UI)
+[![UI автоматизация](https://github.com/Morozovk/UI)
 
 ### ⭐ API тесты на сайт компании [Reqres.in](https://reqres.in/)
-[![API автоматизация](https://github-readme-stats.vercel.app/api/pin/?username=Morozovk&repo=API)](https://github.com/Morozovk/API)
+[![API автоматизация]](https://github.com/Morozovk/API)
 
 ### 📱 MOBILE тесты на приложение компании [wikipedia.org](https://www.wikipedia.org)
-[![Mobile автоматизация](https://github-readme-stats.vercel.app/api/pin/?username=Morozovk&repo=MOBILE)](https://github.com/Morozovk/MOBILE)
+[![Mobile автоматизация]](https://github.com/Morozovk/MOBILE)
