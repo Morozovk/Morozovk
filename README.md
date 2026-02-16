@@ -29,7 +29,7 @@
 ### Мои проекты по автоматизации тестирования на Java :mortar_board:
 
 ### 🖥️ UI тесты на сайт компании [KDV GROUP](https://kdvonline.ru/)
-[![UI автоматизация](https://github.com/Morozovk/UI)
+[![UI автоматизация]](https://github.com/Morozovk/UI)
 
 ### ⭐ API тесты на сайт компании [Reqres.in](https://reqres.in/)
 [![API автоматизация]](https://github.com/Morozovk/API)
